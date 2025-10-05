@@ -36,7 +36,7 @@ Four-year employees who left seem to have an unusually low satisfaction level. I
 The longest-tenured employees didn't leave. Their satisfaction levels aligned with those of newer employees who stayed.
 The histogram shows that there are relatively few longer-tenured employees. It's possible that they're the higher-ranking, higher-paid employees.
 
-![SS4](https://github.com/Rohan-Goli/Google-Advanced-Data-Analytics-HR-Capstone-Project/blob/main/Google%20Advanced%20Data%20Analytics%2C%20Capstone%20Project/Project_Images/SS3.png)
+![SS4](https://github.com/Rohan-Goli/Google-Advanced-Data-Analytics-HR-Capstone-Project/blob/main/Google%20Advanced%20Data%20Analytics%2C%20Capstone%20Project/Project_Images/SS4.png)
 
 
 ![SS5](https://github.com/Rohan-Goli/Google-Advanced-Data-Analytics-HR-Capstone-Project/blob/main/Google%20Advanced%20Data%20Analytics%2C%20Capstone%20Project/Project_Images/SS5.png)
